@@ -1,0 +1,12 @@
+D:\LF\LFGit\CmdGUI\CmdGUI\bin\Debug\CmdGUI.exe
+D:\LF\LFGit\CmdGUI\CmdGUI\bin\Debug\CmdGUI.pdb
+D:\LF\LFGit\CmdGUI\CmdGUI\obj\Debug\CmdGUI.csprojResolveAssemblyReference.cache
+D:\LF\LFGit\CmdGUI\CmdGUI\obj\Debug\MainWindow.baml
+D:\LF\LFGit\CmdGUI\CmdGUI\obj\Debug\MainWindow.g.cs
+D:\LF\LFGit\CmdGUI\CmdGUI\obj\Debug\App.g.cs
+D:\LF\LFGit\CmdGUI\CmdGUI\obj\Debug\CmdGUI_MarkupCompile.cache
+D:\LF\LFGit\CmdGUI\CmdGUI\obj\Debug\CmdGUI.g.resources
+D:\LF\LFGit\CmdGUI\CmdGUI\obj\Debug\CmdGUI.Properties.Resources.resources
+D:\LF\LFGit\CmdGUI\CmdGUI\obj\Debug\CmdGUI.csproj.GenerateResource.Cache
+D:\LF\LFGit\CmdGUI\CmdGUI\obj\Debug\CmdGUI.exe
+D:\LF\LFGit\CmdGUI\CmdGUI\obj\Debug\CmdGUI.pdb
