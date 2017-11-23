@@ -1,3 +1,5 @@
 
 *.Cache
 *.user
+*.exe
+*.pdb
