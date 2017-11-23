@@ -1,1 +1,0 @@
-netstat -aon|findstr "8970"
