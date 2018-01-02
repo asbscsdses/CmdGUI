@@ -1,1 +1,4 @@
 ﻿shutdown /s /t 1
+control userpasswords2
+systemPropertiescomputername
+systemPropertiesadvanced
